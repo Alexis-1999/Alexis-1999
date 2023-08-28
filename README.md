@@ -2,19 +2,13 @@
 <h3 align="center">A passionate frontend developer from Paraguay</h3>
 
 <h2>¿Quién soy?</h2>
-<p>Soy un apasionado programador front-end con un sólido conocimiento en el desarrollo de interfaces de usuario atractivas y funcionales. Mi experiencia se centra en la implementación de diseños web utilizando tecnologías como HTML, CSS, JavaScript y React. He trabajado en la creación de experiencias de usuario intuitivas y responsivas, asegurándome de que los sitios web sean visualmente atractivos y al mismo tiempo eficientes en términos de rendimiento. Mi objetivo es combinar mis habilidades creativas y técnicas para ofrecer soluciones web que brinden una experiencia excepcional a los usuarios. Siempre estoy emocionado por aprender nuevas técnicas y mantenerme al tanto de las últimas tendencias en el mundo del desarrollo front-end.</p>
+<p>Soy un apasionado programador front-end especializado en crear interfaces atractivas y funcionales con HTML, CSS, JavaScript y React. Mi enfoque se centra en combinar creatividad y técnica para ofrecer soluciones web excepcionales.</p>
 
 <h2>¿Qué hago?</h2>
-<p>Mi enfoque se centra en la administración de sistemas y redes, con experiencia básica en una variedad de tecnologías. Tengo experiencia en la configuración y administración de servidores virtuales utilizando VMware, lo que implica la creación y gestión de máquinas virtuales para diversos propósitos. También he trabajado con cPanel y WHM para gestionar servidores web, lo que incluye la configuración de alojamiento, sitios web y bases de datos.
-
-Además, he realizado configuraciones de correo electrónico, asegurándome de que los servidores estén correctamente configurados para enviar y recibir correos electrónicos de manera confiable. Esto incluye la configuración de registros DNS y la resolución de problemas relacionados con el flujo de correo.
-
-Tengo experiencia básica en la configuración de dispositivos MikroTik para la administración de redes, como la configuración de enrutadores y cortafuegos. Si bien mis habilidades en estas tecnologías son fundamentales, siempre estoy dispuesto a aprender y mejorar.</p>
+<p>Me destaco en la administración de sistemas y redes, con experiencia en configuración de servidores virtuales (VMware), gestión de cPanel, WHM yconfiguraciones de correo electrónico, asegurándome de que los servidores estén correctamente configurados para enviar y recibir correos electrónicos de manera confiable. Además, poseo conocimientos en dispositivos MikroTik para administración de redes.</p>
 
 <h3>¿A dónde me dirijo?</h3>
-<p>Mi trayectoria y enfoque están firmemente dirigidos hacia el desarrollo front-end. Mi objetivo es seguir ampliando mis habilidades y conocimientos en la creación de interfaces de usuario excepcionales y enriquecedoras. Estoy emocionado por explorar tecnologías emergentes en el mundo del diseño web, como frameworks JavaScript modernos y herramientas de optimización de rendimiento.
-
-Además, estoy comprometido a mejorar mi comprensión de la experiencia del usuario y la usabilidad, para asegurarme de que cada interacción en línea sea fluida y agradable para los usuarios. A medida que avanzo, planeo involucrarme en proyectos desafiantes que me permitan aplicar y fortalecer mis habilidades en la creación de experiencias web innovadoras.</p>
+<p>Mi camino está fijado en el desarrollo front-end. Busco mejorar la experiencia del usuario y explorar tecnologías emergentes. Aspiro a contribuir en proyectos desafiantes para potenciar mis habilidades en la creación de experiencias web innovadoras.</p>
 
 
 <h3 align="left">Connect with me:</h3>
