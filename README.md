@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexis Aguilar</h1>
-<h3 align="center">A passionate frontend developer from Paraguay</h3>
+<h1 align="center">Hola 👋, soy Alexis Aguilar,</h1>
+<h3 align="center">Un apasionado desarrollador front-end de Paraguay.</h3>
 
 <h2>¿Quién soy?</h2>
 <p>Soy un apasionado programador front-end especializado en crear interfaces atractivas y funcionales con HTML, CSS, JavaScript y React. Mi enfoque se centra en combinar creatividad y técnica para ofrecer soluciones web excepcionales.</p>
@@ -7,11 +7,22 @@
 <h2>¿Qué hago?</h2>
 <p>Me destaco en la administración de sistemas y redes, con experiencia en configuración de servidores virtuales (VMware), gestión de cPanel, WHM yconfiguraciones de correo electrónico, asegurándome de que los servidores estén correctamente configurados para enviar y recibir correos electrónicos de manera confiable. Además, poseo conocimientos en dispositivos MikroTik para administración de redes.</p>
 
-<h3>¿A dónde me dirijo?</h3>
+<h2>¿A dónde me dirijo?</h2>
 <p>Mi camino está fijado en el desarrollo front-end. Busco mejorar la experiencia del usuario y explorar tecnologías emergentes. Aspiro a contribuir en proyectos desafiantes para potenciar mis habilidades en la creación de experiencias web innovadoras.</p>
 
+<h2>¿Qué tecnologías uso?</h2>
+<p>El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:</p>
+<ul>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>GIT</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis-aguilar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis-aguilar19" height="30" width="40" /></a>
 </p>
